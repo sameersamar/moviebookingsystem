@@ -30,7 +30,7 @@
 
 .img-card{
     margin: 5px 0px;
-    transition: .1s;
+    transition: .5s;
 }
 .img-card:hover{
     transform: scale(1.04);
